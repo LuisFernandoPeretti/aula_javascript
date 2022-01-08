@@ -1,6 +1,47 @@
+var d = new Date();
+alert(d.getMinutes());
+
+/*
+var d = new Date();
+
+if (d.getMonth() == 0){
+    var x = "Janeiro";
+}
+
+alert(x);
+*/
+
+/*
+var count;
+for(count = 0; count <= 5; count++){
+    alert(count);
+}
+*/
+
+/*
+var count = 0;
+while (count < 5){
+    alert(count);
+    count++;
+};
+*/
+
+/*
+var idade = prompt("What is your age?");
+
+var idade = 18;
+if (idade >= 18){
+    alert("maior de idade");
+}else{
+    alert("menor de idade");
+};
+*/
+
+/*
 var frutas = [{nome: "maçã", cor: "vermelho"}, {nome: "uva", cor: "roxa"}]
 console.log(frutas);
 alert(frutas[1].nome);
+*/
 
 /*
 var fruta = {nome: "maçã", cor: "vermelho"}
