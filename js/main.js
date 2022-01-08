@@ -1,5 +1,6 @@
 var d = new Date();
-alert(d.getMinutes());
+//alert(d.getMinutes());
+alert(d.getHours());
 
 /*
 var d = new Date();
